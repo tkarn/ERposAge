@@ -3,7 +3,7 @@
 ## Supplementary Resource to:  
 
 Qing T, Karn T et al. Molecular differences between younger versus older ER-positive and HER2-negative breast cancers.
-NPJ Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
+npj Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
 
 *PMID 36344517*
 
