@@ -14,14 +14,6 @@ NPJ Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
 ## This resource contains the following data described in the paper:
 
 
-
-* [< Karn_2017_JAMA-Onc_Supplement_2017_06_20.pdf >](https://github.com/tkarn/TNBC-TIL/blob/master/Karn_2017_JAMA-Onc_Supplement_2017_06_20.pdf)
-
-    Supplementary Online Content with eMethods and eFigures
-	
-
-
-
 1. [*Affymetrix_Analyses.Rmd*](https://github.com/tkarn/ERposAge/blob/master/Affymetrix_Analyses.Rmd):  An R-Markdown file of the Affymetrix analyses in the paper
 
 2. [*Affymetrix_Analyses.html*](https://github.com/tkarn/ERposAge/blob/master/Affymetrix_Analyses.html):  The corresponding code with all output from Affymetrix_Analyses.Rmd
