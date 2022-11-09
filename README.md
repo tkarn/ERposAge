@@ -14,13 +14,13 @@ NPJ Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
 ## This resource contains the following data described in the paper:
 
 
-- Affymetrix_Analyses.Rmd
+1. Affymetrix_Analyses.Rmd
 An R-Markdown file of the Affymetrix analyses in the paper
 
-- Affymetrix_Analyses.html
+2. Affymetrix_Analyses.html
 The corresponding code with all output from Affymetrix_Analyses.Rmd
 
-- sudirectory *data* with the following input files for the R-Markdown script:
+3. sudirectory *data* with the following input files for the R-Markdown script:
  - n2007_SampleInfo.txt
  - signatures.txt
  - Common39Genes-probesets.txt
