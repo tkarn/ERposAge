@@ -21,11 +21,11 @@ An R-Markdown file of the Affymetrix analyses in the paper
 The corresponding code with all output from Affymetrix_Analyses.Rmd
 
 * sudirectory *data* with the following input files for the R-Markdown script:
-** n2007_SampleInfo.txt
-** signatures.txt
-** Common39Genes-probesets.txt
+- n2007_SampleInfo.txt
+- signatures.txt
+- Common39Genes-probesets.txt
 
 * One additional file necessary for the analysis is **NOT** availables in this resource:
-** n2007_MAS5.txt (400 MB) contains all Affymetrix microarray data and can be downloaded as zip file from:
+- n2007_MAS5.txt (400 MB) contains all Affymetrix microarray data and can be downloaded as zip file from:
 
  
