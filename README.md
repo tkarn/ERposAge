@@ -7,7 +7,7 @@ NPJ Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
 
 *PMID 36344517*
 
-[https://www.ncbi.nlm.nih.gov/pubmed/?term=](https://pubmed.ncbi.nlm.nih.gov/36344517/)
+[https://www.ncbi.nlm.nih.gov/pubmed/36344517/](https://pubmed.ncbi.nlm.nih.gov/36344517/)
 
 ************************************************************
 
