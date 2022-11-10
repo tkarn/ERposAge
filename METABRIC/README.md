@@ -18,7 +18,7 @@
 
 One additional file necessary for the METABRIC analysis is **NOT** available in this resource due to size:
 
-- The log expression data for 1980 breast cancer samples and clinical data can be downloaded from [cBioPortal](https://www.cbioportal.org/study/summary?id=brca_metabric) or as a zip file from:
+- The log expression data and clinical data for 1980 breast cancer samples can be downloaded from [cBioPortal](https://www.cbioportal.org/study/summary?id=brca_metabric) or as a zip file from:
 https://user.uni-frankfurt.de/~tkarn/data/METABRIC.zip
 
  
