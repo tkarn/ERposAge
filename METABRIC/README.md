@@ -12,7 +12,7 @@
  - *signatures.txt*
  - *Common39Genes-probesets.txt*
 
-5. sudirectory [*functions*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/functions/) with the R-script:
+4. sudirectory [*functions*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/functions/) with the R-script:
  - *oncotypedx2_withoutBAG1.R*
  (an adapted oncotypedx function from the genefu package leaving out the gene BAG1, which is not available in METABRIC expression data)
  
