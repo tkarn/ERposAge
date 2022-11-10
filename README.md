@@ -43,9 +43,9 @@ https://user.uni-frankfurt.de/~tkarn/data/n2007_MAS5.zip
 2. [*METABRIC_Analyses.html*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/METABRIC_Analyses.html):  The corresponding code together with all output from METABRIC_Analyses.Rmd
 
 3. sudirectory [*data*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/data/) with the following input files for the R-Markdown script:
- - *.txt*
- - *.txt*
- - *.txt*
+ - *data_clinical.txt*
+ - *signatures.txt*
+ - *Common39Genes-probesets.txt*
 
 4. [*METABRIC_Analyses.zip*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/METABRIC_Analyses.zip): A zip package for downloading all files above (1.-3.): 
 
