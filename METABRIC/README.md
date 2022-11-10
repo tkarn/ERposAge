@@ -12,7 +12,11 @@
  - *signatures.txt*
  - *Common39Genes-probesets.txt*
 
-4. [*METABRIC_Analyses.zip*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/METABRIC_Analyses.zip): A zip package for downloading all files above (1.-3.): 
+5. sudirectory [*functions*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/functions/) with the R-script:
+ - *oncotypedx2_withoutBAG1.R*
+ (an adapted oncotypedx function from the genefu package leaving out the gene BAG1, which is not available in METABRIC expression data)
+ 
+5. [*METABRIC_Analyses.zip*](https://github.com/tkarn/ERposAge/blob/master/METABRIC/METABRIC_Analyses.zip): A zip package for downloading all files above (1.-4.): 
 
 **NOTE:**
 
