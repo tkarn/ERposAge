@@ -23,9 +23,13 @@ npj Breast Cancer. 2022 Nov 7;8(1):119. doi: 10.1038/s41523-022-00492-0
  - *signatures.txt*
  - *Common39Genes-probesets.txt*
 
+4. [*Affymetrix_Analyses.zip*](https://github.com/tkarn/ERposAge/blob/master/Affymetrix_Analyses.zip):A zip package for downloading all files above (1.-3.): 
 
-One additional file necessary for the analysis is **NOT** available in this resource:
- - *n2007_MAS5.txt* contains all Affymetrix microarray data and can be downloaded as a 187 MB zip file from:
+**NOTE:**
+
+One additional file necessary for the analysis is **NOT** available in this resource due to size:
+
+- *n2007_MAS5.txt* contains all Affymetrix microarray data and can be downloaded as a 187 MB zip file from:
 https://user.uni-frankfurt.de/~tkarn/data/n2007_MAS5.zip
 
  
