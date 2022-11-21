@@ -64,7 +64,7 @@ https://user.uni-frankfurt.de/~tkarn/data/METABRIC.zip
  
  ************************************************************
 
-## Further information on the mutation analyses of TCGA and SCAN-B datasets can be found at:
+## Further information on mutation analyses of TCGA and SCAN-B datasets is available at:
 
 ### GitHub repository of Tay Qing [*github.com/tao-qing/npjYoungVsOld*](https://github.com/tao-qing/npjYoungVsOld/)  
  
